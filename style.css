@@ -38,3 +38,7 @@ background-color: turquoise !important;
      width: 30%;
      display: block;
  }
+ .logo {
+     width: auto;
+     height: 50px;
+ }
